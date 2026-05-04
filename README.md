@@ -137,12 +137,6 @@ python main.py
 - [ ] Web interface for remote control
 - [ ] Hand gesture recording and playback
 
-## License
-
-MIT License
-
-## Author
-
 Hand Gesture Detection System
 
 ## Support
